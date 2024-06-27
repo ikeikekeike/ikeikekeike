@@ -2,4 +2,4 @@ CURRENTLY:
 
 - *Mechanics*, L.D. Landau, Evgeny Lifshitz
 
-![](badge2.png)
+![Completed *Mechanics*](badge2.png)
