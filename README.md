@@ -1,3 +1,3 @@
 CURRENTLY:
 
-- *Mechanics*, L.D. Landau & Evgeny Lifshiz
+- *Mechanics*, L.D. Landau, Evgeny Lifshiz
